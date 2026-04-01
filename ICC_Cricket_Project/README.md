@@ -2,18 +2,18 @@
 
 ## 📌 Objective
 
-Analyze cricket player performance using SQL.
+Analyze cricket player performance data using SQL.
 
 ## 📊 Key Analysis Performed
 
-* Cleaned and transformed raw data
-* Extracted player name and country
-* Derived start and end year
+* Cleaned dataset by removing unnecessary columns
+* Extracted player names and country from raw data
+* Derived start and end year from span column
 * Separated highest score and not-out status
 * Identified top players based on average and centuries
 * Created views for South African players
 
-## 🛠️ SQL Concepts Used
+## 🧠 SQL Concepts Used
 
 * String functions (SUBSTR, POSITION)
 * CASE statements
@@ -27,4 +27,4 @@ Analyze cricket player performance using SQL.
 
 ## 🚀 Outcome
 
-Performed structured data transformation and player performance analysis.
+Performed structured data cleaning and player performance analysis using SQL.
