@@ -29,4 +29,11 @@ Analyze supply chain data to understand product demand, pricing differences, and
 
 ## 🚀 Outcome
 
-Identified demand trends and supplier competition using SQL queries.
+Identified demand trends and supplier competition using SQL queries
+
+## 🚀 How to Run
+
+1. Create database in MySQL
+2. Run DDL file (1_ddl_case study.sql)
+3. Insert data using 2_data.sql
+4. Execute the analysis SQL file.
