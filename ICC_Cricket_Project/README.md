@@ -27,11 +27,6 @@ Analyze cricket player performance data using SQL.
 
 ## 🚀 Outcome
 
-Performed structured data cleaning and player performance analysis using SQL 
+Performed structured data cleaning and player performance analysis using SQL. 
 
-## 🚀 How to Run
 
-1. Create database in MySQL
-2. Run DDL file (1_ddl_case study.sql)
-3. Insert data using 2_data.sql
-4. Execute the analysis SQL file.
