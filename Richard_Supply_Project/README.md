@@ -2,21 +2,21 @@
 
 ## 📌 Objective
 
-Analyze supply chain data to understand product demand, pricing, and supplier competition.
+Analyze supply chain data to understand product demand, pricing differences, and supplier competition.
 
 ## 📊 Key Analysis Performed
 
 * Calculated total savings per order
-* Identified high-demand products
-* Analyzed supplier competitors
-* Created customer-supplier relationship mapping
-* Built views for supplier sales
+* Identified high-demand products using quantity sold
+* Analyzed competitor suppliers for selected products
+* Created combined customer and supplier data
+* Built views for supplier sales analysis
 * Implemented trigger for backup table
 
-## 🛠️ SQL Concepts Used
+## 🧠 SQL Concepts Used
 
 * JOIN (INNER, LEFT, RIGHT)
-* GROUP BY, HAVING
+* GROUP BY and HAVING
 * Aggregation functions (SUM)
 * Views
 * Triggers
@@ -29,4 +29,4 @@ Analyze supply chain data to understand product demand, pricing, and supplier co
 
 ## 🚀 Outcome
 
-Derived insights on product demand and supplier competition.
+Identified demand trends and supplier competition using SQL queries.
