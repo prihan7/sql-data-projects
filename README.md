@@ -1,19 +1,35 @@
-# SQL Data Projects
+# SQL Data Analysis Projects
 
-This repository contains SQL-based data analysis projects.
+## 📌 Overview
 
-## 📁 Projects
+This repository contains SQL-based data analysis projects focused on solving real-world business problems using structured datasets.
 
-### 1. Richard Supply Project
+## 📊 Projects
 
-Supply chain analysis using SQL.
+### 🔹 Richard Supply Chain Analysis
 
-### 2. ICC Cricket Project
+* Analyzed product demand and pricing differences
+* Identified high-demand products
+* Compared supplier competition
+* Created views and triggers for data management
 
-Cricket data analysis using SQL.
+### 🔹 ICC Cricket Data Analysis
 
-## 🛠️ Skills
+* Cleaned and transformed player data
+* Extracted country and player information
+* Analyzed player performance metrics
+* Identified top players based on average and centuries
 
-* SQL
-* Data Analysis
+## 🛠️ Skills Used
+
+* SQL (Joins, Aggregations, Views, Triggers)
 * Data Cleaning
+* Data Analysis
+
+## 📂 Tools
+
+* MySQL
+
+## 🎯 Purpose
+
+This repository demonstrates my SQL skills for Data Analyst roles.
