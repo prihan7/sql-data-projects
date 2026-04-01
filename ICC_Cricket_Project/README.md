@@ -27,6 +27,30 @@ Analyze cricket player performance data using SQL.
 
 ## 🚀 Outcome
 
-Performed structured data cleaning and player performance analysis using SQL. 
+Performed structured data cleaning and player performance analysis using SQL
+
+## 🚀 How to Run
+
+1. Open MySQL Workbench (or any SQL tool)
+
+2. Create a new database:
+   CREATE DATABASE icc_cricket;
+   USE icc_cricket;
+
+3. Import the dataset:
+
+   * Load the file: ICC Test Batting Figures.csv
+   * Import it into a table named: icc_test_batting_figures
+
+4. Open and run the SQL file:
+
+   * icc_cricket_analysis.sql
+
+5. Execute the queries step by step to:
+
+   * Clean and transform the data
+   * Extract player and country information
+   * Analyze player performance
+   * Generate insights
 
 
